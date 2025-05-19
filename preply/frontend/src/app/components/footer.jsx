@@ -7,7 +7,6 @@ const Footer = () => {
   return (
     <footer className="bg-white w-screen h-[40vh] lg:h-[30vh] relative inset-x-0 bottom-0 ">
       <div className="">
-        {/* Logo */}
         <Image
           className="dark:invert ml-[-8px] lg:ml-2 "
           src={logo}
@@ -18,7 +17,6 @@ const Footer = () => {
         />
         <p className="text-[#E9C06B] ml-4 mt-[-1rem] lg:ml-8 lg:mt-[-3rem] text-xs">&copy;Copyright 2025</p>
 
-        {/* Slogan */}
         <p className="relative mt-[-3rem] ml-4 text-[#FAA900] lg:text-2xl font-regular lg:ml-60 lg:mt-[-6rem]">
           Your Week, Prepped.
         </p>

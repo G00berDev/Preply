@@ -38,7 +38,6 @@ export default function Navbar() {
         </button>
       </div>
 
-      {/* Fullscreen Mobile Menu */}
       <div
         className={`fixed top-0 left-0 h-screen w-full lg:w-[30vw] lg:shadow-xl/30 bg-white transition-transform duration-300 ease-in-out z-50 ${
           isOpen ? 'translate-x-0' : '-translate-x-full'
@@ -108,7 +107,6 @@ export default function Navbar() {
           </li>
         </ul>
 
-        {/* Sign Out Button */}
         <div className="absolute bottom-5 left-5 w-full flex place-self-start">
           <button
             onClick={handleSignOut}

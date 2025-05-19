@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Bananas",
+    "category": "Produce",
+    "quantity": "6",
+    "checked": false
+  },
+  {
+    "id": 2,
+    "name": "Ground Beef",
+    "category": "Meat",
+    "quantity": "1 lb",
+    "checked": false
+  },
+  {
+    "id": 3,
+    "name": "Eggs",
+    "category": "Dairy",
+    "quantity": "1 dozen",
+    "checked": true
+  },
+  {
+    "id": 4,
+    "name": "Almond Milk",
+    "category": "Dairy",
+    "quantity": "1 carton",
+    "checked": false
+  },
+  {
+    "id": 5,
+    "name": "Shredded Cheese",
+    "category": "Dairy",
+    "quantity": "8 oz",
+    "checked": true
+  },
+  {
+    "id": 6,
+    "name": "Apples",
+    "category": "Produce",
+    "quantity": "4",
+    "checked": false
+  },
+  {
+    "id": 7,
+    "name": "Carrots",
+    "category": "Produce",
+    "quantity": "1 lb",
+    "checked": false
+  }
+]
