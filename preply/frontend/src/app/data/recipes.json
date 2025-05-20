@@ -1,0 +1,44 @@
+[
+  {
+    "day": "Monday",
+    "type": "Breakfast",
+    "name": "Avocado Toast",
+    "time": "10 min",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836"
+  },
+  {
+    "day": "Monday",
+    "type": "Lunch",
+    "name": "Turkey Sandwich",
+    "time": "15 min",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836"
+  },
+  {
+    "day": "Monday",
+    "type": "Dinner",
+    "name": "Spaghetti Bolognese",
+    "time": "40 min",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836"
+  },
+  {
+    "day": "Tuesday",
+    "type": "Breakfast",
+    "name": "Banana Pancakes",
+    "time": "20 min",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836"
+  },
+  {
+    "day": "Tuesday",
+    "type": "Lunch",
+    "name": "Chicken Caesar Wrap",
+    "time": "15 min",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836"
+  },
+  {
+    "day": "Tuesday",
+    "type": "Dinner",
+    "name": "Grilled Salmon",
+    "time": "30 min",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836"
+  }
+]
